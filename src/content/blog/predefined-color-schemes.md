@@ -1,18 +1,15 @@
 ---
 author: Sat Naing
-pubDatetime: 2022-09-26T12:13:24Z
-modDatetime: 2024-01-04T09:09:06Z
+pubDatetime: 2026-10-20
+modDatetime: 2026-10-20
 title: Predefined color schemes
 slug: predefined-color-schemes
 featured: false
-draft: false
+draft: true
 tags:
   - color-schemes
-description:
-  Some of the well-crafted, predefined color schemes for AstroPaper blog
-  theme.
+description: Some of the well-crafted, predefined color schemes for AstroPaper blog theme.
 ---
-
 I've crafted some predefined color schemes for this AstroPaper blog theme. You can replace these color schemes with the original ones.
 
 If you don't know how you can configure color schemes, check [this blog post](https://astro-paper.pages.dev/posts/customizing-astropaper-theme-color-schemes/).
@@ -180,3 +177,4 @@ html[data-theme="dark"] {
   --color-border: 48, 63, 138;
 }
 ```
+
