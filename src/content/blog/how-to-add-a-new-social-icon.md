@@ -1,15 +1,14 @@
 ---
 author: Simon Smale
-pubDatetime: 2024-01-08T18:16:00.000Z
-modDatetime:
+pubDatetime: 2026-10-20
+modDatetime: 2026-10-20
 title: How to add a new Social Icon to AstroPaper
 featured: false
-draft: false
+draft: true
 tags:
   - FAQ
 description: How to add a new social icon to AstroPaper
 ---
-
 Hot new platform? Niche corner of the internet? Or one specific to your area? This post will guide you through how to add a new social icon to the theme.
 
 ## Table of contents
@@ -34,7 +33,7 @@ For this guide we are going to use the StackOverflow icon as our example.
 
 > In this case, we are going to use the `StackOverflow` as an example.
 
-Searching on Tabler for 'StackOverflow' we get a single icon <https://tabler.io/icons/icon/brand-stackoverflow>, we are going to need the svg code, so save it for later.
+Searching on Tabler for 'StackOverflow' we get a single icon [https://tabler.io/icons/icon/brand-stackoverflow](https://tabler.io/icons/icon/brand-stackoverflow), we are going to need the svg code, so save it for later.
 
 ```html
 <svg
