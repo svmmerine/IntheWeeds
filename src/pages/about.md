@@ -1,36 +1,9 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: About
 ---
+It started when I was 14 on a trip to Bali in 2014, where I took photos of tourist sites with my iPhone 4s. There was a ++[picture of a rock formation](https://sites.google.com/view/tantzetao/pictureofrockformation)++ that I loved. I liked the way the water near the gap in the rocks reflected the light. I have made some progress since then.
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+![image.png](blob:https:/app.pagescms.org/38b87e58-e7f5-4aff-9e6e-93bf3ae70327)
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
-
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
-
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+Shot, developed, and scanned by Lucas Ng
